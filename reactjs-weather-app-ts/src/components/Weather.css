@@ -1,0 +1,17 @@
+.weather_display{
+    background-color: #eee;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+.city, .temp, .icon, .descr, .pressure, .humid, .rain{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+button{
+    margin-left: 180px;
+    margin-top: 10px;
+}

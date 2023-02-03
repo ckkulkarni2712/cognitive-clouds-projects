@@ -1,0 +1,23 @@
+.country-search{
+    width: 40%;
+    background-color: #eee;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.country-search img{
+    width: 500px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.country, .pop, .latitude, .long{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.weatherbutton{
+    margin-left: 50px;
+}
